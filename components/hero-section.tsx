@@ -31,7 +31,7 @@ export function HeroSection() {
           <div className="relative shrink-0">
             <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-4 border-primary/30 shadow-xl shadow-primary/10">
               <Image
-                src="/images/profile.jpg"
+                src="/my-profile/images/profile.jpg"
                 alt="Ajay Kumar Lakshmipura Vijaykumar"
                 width={160}
                 height={160}
