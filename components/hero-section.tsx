@@ -33,9 +33,7 @@ export function HeroSection() {
               <Image
                 src="/my-profile/images/profile.jpg"
                 alt="Ajay Kumar Lakshmipura Vijaykumar"
-                width={160}
-                height={160}
-                className="object-cover w-full h-full"
+                className="w-full h-full object-cover object-top"
                 priority
               />
             </div>
