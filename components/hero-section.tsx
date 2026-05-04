@@ -29,7 +29,7 @@ export function HeroSection() {
         <div className="flex flex-col md:flex-row md:items-center gap-8 mb-8">
           {/* Profile Picture */}
           <div className="relative shrink-0">
-            <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-4 border-primary/30 shadow-xl shadow-primary/10">
+            <div className="w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-primary/30 shadow-xl shadow-primary/10">
               <Image
                 src="/my-profile/images/profile.jpg"
                 alt="Ajay Kumar Lakshmipura Vijaykumar"
